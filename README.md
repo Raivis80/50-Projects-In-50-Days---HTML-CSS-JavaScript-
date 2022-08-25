@@ -9,3 +9,4 @@
 ## Day 9 - Sound board
 ## Day 10 - Dad jokes
 ## Day 11 - Event key codes
+## Day 12 - FAQ collapse
