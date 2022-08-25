@@ -6,3 +6,4 @@
 ## Day 6 - Scroll Animation
 ## Day 7 - Split Landing Page
 ## Day 8 - Form input wave
+## Day 9 - Sound board
