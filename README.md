@@ -1,3 +1,9 @@
+Udemy video Course
+50 Projects In 50 Days - HTML, CSS & JavaScript
+
+Link for the course: [here](https://www.udemy.com/course/50-projects-in-50-days-html-css-javascript/)
+
+
 ## Day 1 - Expanding Cards
 ## Day 2 - Progress Steps
 ## Day 3 - Rotating Navigation#
@@ -12,3 +18,4 @@
 ## Day 12 - FAQ collapse
 ## Day 13 - Random Choice Picker
 ## Day 14 - Animated Navigation
+## Day 15 - Increment Counter
