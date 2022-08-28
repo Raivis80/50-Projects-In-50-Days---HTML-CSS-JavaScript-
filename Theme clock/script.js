@@ -60,12 +60,34 @@ function setTime() {
     const minutesDegrees = scale(minutes, 0, 59, 0, 360);
     const secondsDegrees = scale(seconds, 0, 59, 0, 360);
 
+    // spin-back fix for the seconds
+    if (seconds === 0) {
+        secondEl.style.transition = "none";
+    } else {
+        secondEl.style.transition = "all 0.5s";
+    }
+
+    // Spin-back fix for the minutes
+    if (minutes === 0) {
+        minuteEl.style.transition = "none";
+    } else {
+        minuteEl.style.transition = "all 0.5s";
+    }
+    // Spin-back fix for the hours
+    if (hours === 0) {
+        hourEl.style.transition = "none";
+    } else {
+        hourEl.style.transition = "all 0.5s";
+    }
+
     hourEl.style.transform = `translate(-50%, -100%) rotate(${hoursDegrees}deg)`;
     minuteEl.style.transform = `translate(-50%, -100%) rotate(${minutesDegrees}deg)`;
     secondEl.style.transform = `translate(-50%, -100%) rotate(${secondsDegrees}deg)`;
 
     timeEl.innerHTML = `${hours}:${minutes < 10 ? "0" + minutes : minutes} ${ampm}`;
     dateEl.innerHTML = `${day}, ${month} <span class="circle">${date}</span>`;
+
+
 }
 
 // Map a range of numbers to another range of numbers
