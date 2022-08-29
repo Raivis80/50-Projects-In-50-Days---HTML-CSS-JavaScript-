@@ -29,3 +29,4 @@
 #### Day 23 - kinetic CSS loader
 #### Day 24 - Content Placeholder
 #### Day 25 - Sticky Navbar
+#### Day 26 - Double vertical slider
