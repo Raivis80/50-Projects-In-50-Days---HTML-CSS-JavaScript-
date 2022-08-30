@@ -30,3 +30,5 @@
 #### Day 24 - Content Placeholder
 #### Day 25 - Sticky Navbar
 #### Day 26 - Double vertical slider
+#### Day 27 - Toast notification
+#### Day 28 - Github profiles
