@@ -3,7 +3,6 @@
 
 ***Link for the course: [here](https://www.udemy.com/course/50-projects-in-50-days-html-css-javascript/)***
 
-
 #### Day 1 - Expanding Cards
 #### Day 2 - Progress Steps
 #### Day 3 - Rotating Navigation#
@@ -33,3 +32,4 @@
 #### Day 27 - Toast notification
 #### Day 28 - Github profiles
 #### Day 29 - Double heart click
+#### Day 30 - Auto typing text
