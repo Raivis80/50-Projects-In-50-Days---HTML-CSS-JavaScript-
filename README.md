@@ -34,3 +34,4 @@
 #### Day 29 - Double heart click
 #### Day 30 - Auto typing text
 #### Day 31 - Password generator
+#### Day 32 - Good Cheap Fast
