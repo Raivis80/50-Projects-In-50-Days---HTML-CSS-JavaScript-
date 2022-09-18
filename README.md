@@ -45,3 +45,4 @@
 #### Day 41 - Verify account UI
 #### Day 42 - Live user filter
 #### Day 43 - Feedback UI design
+#### Day 44 - Custom range slider
