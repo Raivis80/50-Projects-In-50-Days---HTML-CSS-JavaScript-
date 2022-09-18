@@ -40,3 +40,6 @@
 #### Day 36 - Hoverboard
 #### Day 37 - Pokedex
 #### Day 38 - Mobile tab navigation
+#### Day 39 - Password Strength Background
+#### Day 40 - 3D Background Boxes
+#### Day 41 - Verify account UI
