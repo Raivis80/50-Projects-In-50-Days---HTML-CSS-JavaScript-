@@ -49,3 +49,6 @@
 #### Day 45 - Netflix mobile navigation
 #### Day 46 - Quiz app	
 #### Day 47 - Testimonial box switcher
+#### Day 48 - Random image feed
+#### Day 49 - Todo list
+#### Day 50 - Insect catch game
